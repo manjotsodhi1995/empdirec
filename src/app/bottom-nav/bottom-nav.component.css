@@ -1,0 +1,17 @@
+.bottom {
+  background-color: lightslategray;
+  display: flex;
+  position: sticky;
+  bottom: 0;
+  font-size: 12px;
+  width: 100%;
+  height: 40px;
+  align-content: center;
+}
+
+.sub-menu {
+  margin: 0 auto;
+  padding: 6px;
+  display: inline-block;
+  text-align: center;
+}
